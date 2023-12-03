@@ -104,10 +104,45 @@ def main():
                 "Beschreibung": "Umstellung der Energieproduktion und -nutzung auf erneuerbare und lokale Energieformen, Ausbau der Energie-Speicherkapazitäten, Energieverbrauch minimieren (Effizienz), CO2-Emissionen vermeiden und senken, Vermeidung/Verminderung von Hitzeinseln durch Begrünung, Durchlüftung, Wasserflächen und Entsiegelung, Förderung der Wasserretention (Schwammstadt)",
                 "Dimension": "Umwelt"
             },
+            "Raumentwicklung und Mobilität": {
+                "Fokus": "Raumnutzung, sozioökonomische Bedürfnisse, klimagerechte Gebäude und Infrastruktur",
+                "Beschreibung": "Minimiert den Flächenverbrauch durch nachhaltige Raumnutzung (kurze Wege), Gebäude und Infrastruktur klimagerecht planen und bauen, Fördert die Wohnqualität sowie die Erreichbarkeit und funktionale Durchmischung der Siedlungen, Fördert eine nachhaltige Raumnutzung mit wenig Nutzungskonflikten (Natur, Landwirtschaft, Arbeiten, Wohnen, Verkehr, Hitzeinseln u.a.)",
+                "Dimension": "Umwelt"
+            },
             "Produktion und Konsum": {
                 "Fokus": "Fokus ENachhaltige Produktion, lokale Wertschöpfung, Kreislaufwirtschaft",
                 "Beschreibung": "Fördert nachhaltige Produktionsmuster unter Einhaltung von Sozial- und Umweltkriterien, Entkopplung der Wertschöpfung vom Ressourcenverbrauch durch nachhaltige Produktion, Fördert lokale und regionale Wertschöpfung und Innovation, Sicherstellen der nachhaltigen Versorgung heutiger und zukünftiger Generationen, Fördert den sparsamen und effizienten Umgang mit Ressourcen, Fördert die Kreislaufwirtschaft",
                 "Dimension": "Wirtschaft"
+            },
+            "Bildung, Forschung und Innovation": {
+                "Fokus": "Persönliche- und fachliche Bildung, Human-Kapital, grüne Wirtschaft",
+                "Beschreibung": "Fördert Bildungschancen und Bildungsangebote, Fördert den Erwerb von Wissen und Fähigkeiten, um sich den wandelnden Anforderungen der Gesellschaft anzupassen, Fördert die Möglichkeit zur persönlichen Entwicklung, Fördert die Resilienz von Einzelpersonen sowie der Gesellschaft gegenüber ökologischen, sozialen und wirtschaftlichen Veränderungen, Fördert Know-how und die Innovationskraft",
+                "Dimension": "Wirtschaft"
+            },
+            "Wirtschafts- und Finanzsystem": {
+                "Fokus": "verantwortungsvolles Handeln, zukunftgerichteses Wirtschafts- und Finanzsystem, hohe Beschäftigung und gute Arbeitsbedingungen",
+                "Beschreibung": "Fördert eine Zukunft gerichtete Wirtschaft, Ermöglicht ein wettbewerbsfähiges, resilientes und  verantwortungsvolles Handeln., Begünstigt die freie Preisbildung und die Kostenwahrheit, Geldanlagen, die Umwelt-, Gesellschafts- und Governance-Aspekte einzubeziehen, werden gefördert, Ermöglicht eine hohe Beschäftigung und faire Arbeitsbedingungen, Verbessert Arbeitsplatzqualität",
+                "Dimension": "Wirtschaft"
+            },
+            "Gesundheit": {
+                "Fokus": "körperliches, geistiges und soziales Wohlergehen, Zugang zum Gesundheitssystem, Prävention",
+                "Beschreibung": "Berücksichtigt die Gesundheit integral; körperliche-, geistige- Gesundheit und soziales Wohlergehen, Fördert die körperliche und psychische Gesundheit und senkt Gesundheitsrisiken, Fördert den Zugang zu hochwertiger Pflege und ermöglicht gleiche Gesundheitschancen für alle Personen.",
+                "Dimension": "Gesellschaft"
+            },
+            "Sozialer Zusammenhalt": {
+                "Fokus": "Gemeinwohl mit gegenseitigem Respekt, Chancengleichheit, Solidarität",
+                "Beschreibung": "Fördert die persönliche Freiheit und das Sicherheitsgefühl, Fördert eine ausgewogene Bevölkerungsstruktur und die demokratische Mitbestimmung, Fördert die Integration (Arbeitsmarkt/ Gesellschaft) und das Vertrauen (informell/institutionell), Fördert die Chancengleichheit aller Menschen und die Vereinbarkeit von Familie, Beruf sowie ausserberufliches Engagement, Fördert die Solidarität (Generationen und Bevölkerungsgruppen übergreifend, regional und global)",
+                "Dimension": "Gesellschaft"
+            },
+            "Lebensbedingungen": {
+                "Fokus": "Deckung der Grundbedürfnisse (materielle und immateriell), Leben in Würde, soziale Vernetzung",
+                "Beschreibung": "Sichert die Grundbedürfnisse wie Nahrung, Wohnraum, Bildung u.a. (Recht auf ein Leben in Würde und frei von Armut), Fördert die Lebensqualität (materiell und immateriell), Fördert die kulturelle Vielfalt und soziale Vernetzung, Schützt die Persönlichkeit im digitalen Raum",
+                "Dimension": "Gesellschaft"
+            },
+            "Governance": {
+                "Fokus": "Transparentes Handeln, Vorbildwirkung, Dialog und Partizipation, Monitoring",
+                "Beschreibung": "Fördert ein transparentes staatliches Handeln, Einbezug der Interessen der gesamten Gesellschaft, Wirkt vorbildlich und zukunftsorientiert, Fördert den Dialog und die Partizipation, Fördert eine systematische Berichtserstattung (Audits, Monitoring, Evaluationen u.a.)",
+                "Dimension": "Governance"
             }
         }
 
