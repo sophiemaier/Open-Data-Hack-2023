@@ -10,6 +10,7 @@
 
 To improve the projectmanagement method regarding sustainability, the projectteam created a PDF analyzer with a Chat GPT API.
 ![image](https://github.com/sophiemaier/Open-Data-Hack-2023/assets/146099878/1800797a-d63c-40c0-b4ff-1b155de64c49)
+![image](https://github.com/sophiemaier/Open-Data-Hack-2023/assets/146099878/9fcb6b52-d02d-49ea-9d05-264d256cf5c9)
 
 
 ### Prerequisites
