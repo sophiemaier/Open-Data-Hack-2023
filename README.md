@@ -26,7 +26,7 @@ Here's how you can set up your development environment:
 git clone https://github.com/sophiemaier/Open-Data-Hack-2023
 
 # Navigate to the project directory
-cd OpenDataHack2023
+cd Open-Data-Hack-2023
 
 # Create a Python virtual environment in the 'venv' directory
 py -m venv venv
